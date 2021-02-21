@@ -19,6 +19,9 @@ As you can see on the video, the model named SAN-17 had a better detection of th
 Just make a cURL request and check the results right away.
 
 The predicted images:
+| SAN-16  | SAN-17 |
+| ------------- | ------------- |
+| ![alt text](https://github.com/danielfurlan/AWS_MMS/blob/master/predicted_SAN-16_cat_1.jpg)  | ![alt text](https://github.com/danielfurlan/AWS_MMS/blob/master/predicted_SAN-17_cat_1.jpg) |
 
 
-![alt text](https://github.com/danielfurlan/AWS_MMS/blob/master/predicted_SAN-16_cat_1.jpg) | ![alt text](https://github.com/danielfurlan/AWS_MMS/blob/master/predicted_SAN-17_cat_1.jpg)
+
