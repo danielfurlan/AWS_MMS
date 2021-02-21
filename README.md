@@ -14,7 +14,12 @@ I'm testing 2 mask_rcnn_R_50_DC5_3x model with different hyper parameters.
 
 As you can see on the video, the model named SAN-17 had a better detection of the lilmbs!
 
-![alt text](https://github.com/danielfurlan/AWS_MMS/blob/master/AWS_MMS.gif)
+![alt text](https://github.com/danielfurlan/AWS_MMS/blob/master/AWSMMS.gif)
 
 Just make a cURL request and check the results right away.
 
+The predicted images:
+
+
+![alt text](https://github.com/danielfurlan/AWS_MMS/blob/master/predicted_SAN-16_cat_1.jpg)
+![alt text](https://github.com/danielfurlan/AWS_MMS/blob/master/predicted_SAN-17_cat_1.jpg)
