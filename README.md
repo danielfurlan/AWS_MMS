@@ -21,5 +21,4 @@ Just make a cURL request and check the results right away.
 The predicted images:
 
 
-![alt text](https://github.com/danielfurlan/AWS_MMS/blob/master/predicted_SAN-16_cat_1.jpg)
-![alt text](https://github.com/danielfurlan/AWS_MMS/blob/master/predicted_SAN-17_cat_1.jpg)
+![alt text](https://github.com/danielfurlan/AWS_MMS/blob/master/predicted_SAN-16_cat_1.jpg | width=300) ![alt text](https://github.com/danielfurlan/AWS_MMS/blob/master/predicted_SAN-17_cat_1.jpg | width=300)
